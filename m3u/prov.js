@@ -193,7 +193,7 @@ function loadPlaylist(url, success, callback){
             $(launch_id).append('p...');
             $.ajax({
 //                url: host+'/m3u/cp.php', data: {url: '@'+url}, method: 'post', dataType: 'text', timeout: 30000, success: success,
-                url: host+'/m3u/cp.php', data: {url: url}, method: 'post', dataType: 'text', timeout: 30000, success: success,
+                url: 'http://ott.augin.ru'+'/m3u/cp.php', data: {url: url}, method: 'post', dataType: 'text', timeout: 30000, success: success,
 
                 error: function(jqXHR, textStatus, errorThrown){
                     console.log( 'channels : jqXHR:'+JSON.stringify(jqXHR)+ '; textStatus: '+textStatus+ ', errorThrown: '+errorThrown );
