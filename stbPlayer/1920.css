@@ -1,0 +1,174 @@
+body
+{
+    font-size: 33px;
+}
+
+#info
+{
+    padding: 30px;
+}
+#numprog
+{
+    left: 30px;
+    top: 30px;
+    padding: 15px;
+}
+#permanentTime{
+    right: 30px;
+    top: 30px;
+    padding: 15px;
+}
+#launch
+{
+    padding: 150px;
+    font-size: 24px;
+}
+.logo{
+    margin: 150px;
+}
+#list
+{
+    margin: 15px;
+}
+#listCaption{
+    height: 45px;
+}
+#listTime{
+    width: 120px;
+    font-size: 33px;
+}
+#list_s{
+    font-size: 24px;
+}
+#listPodval{
+    height: 45px;
+}
+#listDetail
+{
+    width: 783px;
+    top: 495px;
+    bottom: 46px;
+    padding: 6px;
+}
+#listPopUp{
+    bottom: 46px;
+    padding: 15px;
+    margin: 15px;
+}
+#listIn
+{
+    left: 783px;
+    top: 46px;
+    bottom: 46px;
+    padding: 6px 0px;
+}
+#listAbout
+{
+    left: 783px;
+    top: 46px;
+    bottom: 46px;
+    padding: 15px;
+}
+#listEdit
+{
+    left: 783px;
+    top: 46px;
+    bottom: 46px;
+    padding: 15px;
+}
+#info1
+{
+    padding: 30px;
+}
+#picon{
+    width: 120px;
+    height: 120px;
+}
+#channel{
+    width: 1560px;
+    padding: 0px 30px;
+}
+#channel_number{
+    width: 105px;
+}
+#progress_div{
+    margin: 3px 0px;
+}
+#progress{
+    height: 9px;
+}
+#begin_time{
+    font-size: 33px;
+    width: 105px;
+}
+#end_time{
+    font-size: 33px;
+    width: 105px;
+}
+#programm_name{
+    width: 1350px;
+}
+#nbegin_time{
+    font-size: 33px;
+    width: 105px;
+}
+#nend_time{
+    font-size: 33px;
+    width: 105px;
+}
+#nprogramm_name{
+    width: 1350px;
+}
+#data{
+    width: 120px;
+    font-size: 33px;
+}
+#current_s{
+    font-size: 24px;
+}
+#video_res{
+    font-size: 24px;
+}
+#descr{
+    padding: 0px 150px 30px 150px;
+}
+#buffering
+{
+    left: 60px;
+    top: 60px;
+    width: 60px;
+    height: 60px;
+    background-size: 60px;
+}
+#pip_buffering
+{
+    right: 60;
+    top: 60;
+    width: 60;
+    height: 60;
+    background-size: 60;
+}
+#mute{
+    width: 60;
+    height: 60;
+    background-size: 30;
+}
+#volume_div{
+    left: 15;
+    width: 24;
+    border: 8px solid black;
+}
+#dialogbox{
+    padding: 15;
+    margin: 15;
+}
+.btn{
+    border-radius: 10px;
+    padding: 0px 10px;
+}
+.w100{
+    width: 150;
+}
+.w50{
+    width: 75;
+}

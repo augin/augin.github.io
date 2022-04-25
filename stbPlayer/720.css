@@ -1,0 +1,203 @@
+body
+{
+	font-size: 12px;
+}
+#info
+{
+    padding: 11;
+}
+#numprog
+{
+    left: 11px;
+    top: 11px;
+    padding: 6px;
+}
+#permanentTime{
+    right: 11px;
+    top: 11px;
+    padding: 6px;
+}
+#launch
+{
+    padding: 55px;
+    font-size: 9px;
+    background-size: 25px;
+}
+.logo{
+    left: 55;
+    right: 55;
+    top:55;
+    bottom: 55;
+}
+#list
+{
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin: 6;
+}
+#listCaption{
+    left: 0;
+    right: 0;
+    top: 0;
+    height: 20;
+}
+#listTime{
+    right: 0;
+    top: 0;
+    width: 45px;
+    font-size: 12px;
+}
+#list_s{
+    font-size: 9;
+}
+#listPodval{
+    left: 0;
+    right: 0;
+    bottom: 0;
+    height: 20;
+}
+#listDetail
+{
+    left: 0;
+    width: 290;
+    top: 185;
+    bottom: 21;
+    padding: 2;
+}
+#listPopUp{
+    left: 0;
+    /*width: 400;*/
+    bottom: 21;
+    /*height: 335;*/
+    padding: 10;
+    margin: 10;
+}
+#listIn
+{
+    left: 295;
+    right: 0;
+    top: 21;
+    bottom: 21;
+    padding: 4 0;
+}
+#listAbout
+{
+    left: 295;
+    right: 0;
+    top: 21;
+    bottom: 21;
+    padding: 6;
+}
+#listEdit
+{
+    left: 295;
+    right: 0;
+    top: 21;
+    bottom: 21;
+    padding: 6;
+}
+/*}*/
+.img{
+    margin: 0 0 0 4px;
+}
+#info1
+{
+    padding: 10;
+}
+#picon{
+    width: 45px;
+    height: 45px;
+}
+#channel{
+    /*width: 80px;*/
+    width: 590px;
+    /*height: 80px;*/
+    padding: 0 10px;
+}
+#channel_number{
+    width: 40px;
+}
+#progress_div{
+    margin: 2px 0px;
+}
+#progress{
+    height: 4px;
+}
+#begin_time{
+    font-size: 12px;
+    width: 40px;
+}
+#end_time{
+    font-size: 12px;
+    width: 40px;
+}
+#programm_name{
+    width: 506;
+}
+#nbegin_time{
+    font-size: 12px;
+    width: 40px;
+}
+#nend_time{
+    font-size: 12px;
+    width: 40px;
+}
+#nprogramm_name{
+    width: 506;
+}
+#data{
+    width: 45px;
+    font-size: 12px;
+}
+#current_s{
+    font-size: 9;
+}
+#video_res{
+    font-size: 9;
+}
+#descr{
+    padding: 0 55 10 55;
+}
+#buffering
+{
+    left: 25;
+    top: 25;
+    width: 25;
+    height: 25;
+    background-size: 25;
+}
+#pip_buffering
+{
+    right: 25;
+    top: 25;
+    width: 25;
+    height: 25;
+    background-size: 25;
+}
+#mute{
+    left: 0;
+    width: 25;
+    height: 25;
+    background-size: 12;
+}
+#volume_div{
+    left: 10;
+    width: 15;
+    border: 5 solid black;
+}
+#dialogbox{
+    padding: 10;
+    margin: 10;
+}
+.btn{
+    border-radius: 3px;
+    padding: 0px 5px;
+}
+.w100{
+    width: 55;
+}
+.w50{
+    width: 30;
+}
