@@ -36,7 +36,11 @@ var te;
     }
 })();
 
+<<<<<<< HEAD
 host_ott = "http://ott.augin.ru"
+=======
+host_ott = "http://augin.github.io"
+>>>>>>> cf28dbc36a63278daffdac0eb68ba549e7ecc882
 
 if(typeof(host) == "undefined") host = '';
 
