@@ -79,3 +79,20 @@ Description: Support Tools - AD users and RDP sessions web UI
  Web-интерфейс для просмотра пользователей Active Directory
  и терминальных (RDP) сеансов на серверах Windows.
 
+Package: supporttools
+Architecture: amd64
+Version: 1.7.17
+Priority: optional
+Section: net
+Maintainer: augin <augin@users.noreply.github.com>
+Depends: libc6
+Filename: pool/main/supporttools_1.7.17_amd64.deb
+Size: 8299128
+MD5sum: d73936e9f4610943d41b62a088cd6963
+SHA1: 9a819f75aa6381b8e2b14c46d085e041723ade89
+SHA256: ed76275c504a2b334b53ec68ace46b037776dab08ba2ec15ac384d8d2c208835
+SHA512: a4a4a26356c90ac3f44534d2db6d2e73cbb87a2c5bbad8692aaf34f020b67500568d0db34ec0b813dc253011117d380fd3a9a4b3be67ec62f8ec9064a62669f9
+Description: Support Tools - AD users and RDP sessions web UI
+ Web-интерфейс для просмотра пользователей Active Directory
+ и терминальных (RDP) сеансов на серверах Windows.
+

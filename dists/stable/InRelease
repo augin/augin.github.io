@@ -4,31 +4,31 @@ Hash: SHA512
 Architectures: amd64
 Codename: stable
 Components: main
-Date: Fri, 17 Jul 2026 11:17:08 +0000
+Date: Fri, 17 Jul 2026 13:10:04 +0000
 Description: Universal APT repository for Augin projects
 Label: Augin APT Repository
 Origin: Augin
 Suite: stable
 MD5Sum:
- 4f545ee452fcf9374b455c6da1a8fc56              206 Release
- eddd7ddea1e261bb6a39ab948d3b9246             3498 main/binary-amd64/Packages
- 176625537fc93193a0f934c4bc474b08             1444 main/binary-amd64/Packages.gz
+ 10535879894ab7c7fd34df77d3aa67c7              206 Release
+ 314f413dfdd6508e65ce6112a54d443f             4254 main/binary-amd64/Packages
+ 494fe89e2b5dc7d6d4b164eb23582ef1             1636 main/binary-amd64/Packages.gz
 SHA1:
- 751b2d844a903c8b983e276a684e23a79bdd3573              206 Release
- 379889cefd84b8c0595c28a982c3fa14bcd5a515             3498 main/binary-amd64/Packages
- ab488d292a39bfb006a1c1798b7f12c4c347593b             1444 main/binary-amd64/Packages.gz
+ f949a5d37eca9694c82048833a279d09393f421e              206 Release
+ aca89d4d6a0723a44c362237e0a78d09351598c9             4254 main/binary-amd64/Packages
+ 27cfd09b6207461af1b3b0621dc0bd7c2a608bf8             1636 main/binary-amd64/Packages.gz
 SHA256:
- 849d78e874087400f233486c13716fa2a3895027431a245e6f90b6cd993a6b73              206 Release
- 7931a639af37f53470812a91f7e2eae2ae95a436d327baebc2399461ccefac3c             3498 main/binary-amd64/Packages
- b84e90745e57842d25d09e1ad9a7e82d7576b59bc7589f325cde0e26e534af2d             1444 main/binary-amd64/Packages.gz
+ 06cc707fa1cd143f8c066f683bcd24d841e4b839312862b0b40cdafb905a8f0f              206 Release
+ b4e2ebf0071d3a002ecffdd5b1f150a4de0b256d268e717df9fc3fa72c89a7cc             4254 main/binary-amd64/Packages
+ 93ea171a69390d97b9039d555c483cfba5ba93bfc3a4dc8e730befdb6e4ab140             1636 main/binary-amd64/Packages.gz
 SHA512:
- 2e4545d9d5980065297518b209211b520621df150acfec6ce04557927f6309e23a979fdb4769f87cdf46f7fde165841928ed9577fc481c6a4e61ce71e92b9fda              206 Release
- 196a7bc461bda5224eed4f86187b24915d8ec5712618a6b9a2dc71254e3bc35ec3afb1187df818622a078724cca9b4a7d874d0f47c4723082f271a4221155b08             3498 main/binary-amd64/Packages
- 9c626500a6a654d5aeacfc0e95171d3e502e7c6d8d84ad6b77017916c9b83bd883e8af20c466e8c295a89df86e9efd0132ff12cdf1f964f94425f76e7ff2d43d             1444 main/binary-amd64/Packages.gz
+ 484924c6b3b9ea2a9d4b475bd75d0d8a04e3fe29081f263d819df00d3e1dedf14aa4e4211ab82d1eba2fc84a29975864155176282b7d15b5736336086114b024              206 Release
+ e067911523a43d16d04b4a9ab1cd1e6017e3186d0c0ba733068d9750e600488eee9493743023ddfdedb3ac743f4282b36ead6d7fd886cef54d92d4c8b235e424             4254 main/binary-amd64/Packages
+ 1c52a181bff13bde5795f54edc986402119181c54e3a21a709f326c55f9361f2e664fd15205b6e96d4287832ed6c1a3fd11fa633156e7aeb8ef91b95afd30077             1636 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQRFzff8ahWxUXlqRiXXMaJNSPCuFwUCaloPNAAKCRDXMaJNSPCu
-F2scAQD/kiqNYbKdYFju+I0G+aNp7ZGiPyLm+qV5luAaZ6YHzAEA62Gn736HfzNM
-2kE0V2GgeYum1iqD/sWJF2WnBzCxRQQ=
-=VatR
+iHUEARYKAB0WIQRFzff8ahWxUXlqRiXXMaJNSPCuFwUCaloprAAKCRDXMaJNSPCu
+FxuOAP9CkoZ6NqBcLPy0FHmiYIKjQ8ubazHakae+msndJgWuBwEAsqUwmhC6BYIM
+iycqvc+vu+9MHMv0mSyXHoSe+uzTRgE=
+=NNmj
 -----END PGP SIGNATURE-----
