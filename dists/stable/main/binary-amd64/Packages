@@ -28,3 +28,20 @@ SHA256: fd207fc1c0b0f9a1af71f676dc7c92dcc119ed74db62e130dcd38bb914f395be
 SHA512: 329bbec7a7f927d6e269afe06f5d901dd575c5d18beca92c55f5a778bf3c48e1d094236672ac2fc19bfc22729b6e4cdf8725c72417a7d3300b490ef34e65fe60
 Description: NC Manager - Web UI for managing WireGuard VPN on Keenetic routers
 
+Package: supporttools
+Architecture: amd64
+Version: 1.7.14
+Priority: optional
+Section: net
+Maintainer: augin <augin@users.noreply.github.com>
+Depends: libc6
+Filename: pool/main/supporttools_1.7.14_amd64.deb
+Size: 8293474
+MD5sum: 41b54b263d2b0a547490a7d3b2eaa07f
+SHA1: 0372c684c5e994c9919d94eea13dca314db90e1e
+SHA256: 156a5751792b51ee2c03def59226872a29e40db1261286533fc35277528c7c7a
+SHA512: d76b75bae8dff84594cdf1f5198ffa472d660b4a1447b465ead475042e320d90a17ceb107cf82de249d8d42057b4c7683b51c1ed66eafe792d45b08fc69470af
+Description: Support Tools - AD users and RDP sessions web UI
+ Web-интерфейс для просмотра пользователей Active Directory
+ и терминальных (RDP) сеансов на серверах Windows.
+
