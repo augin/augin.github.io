@@ -15,23 +15,6 @@ Description: NC Manager - Web UI for managing WireGuard VPN on Keenetic routers
 
 Package: supporttools
 Architecture: amd64
-Version: 1.8.6
-Priority: optional
-Section: net
-Maintainer: augin <augin@users.noreply.github.com>
-Depends: libc6
-Filename: pool/main/supporttools_1.8.6_amd64.deb
-Size: 8300994
-MD5sum: 48ba541592749c51a1ce8d7152983776
-SHA1: 183562b119fffdc453810cb8f6680f89925ece4e
-SHA256: b4f0a62014243f12016dcdc4583467fd872c88cb17b9235c864d8cf486f73dd0
-SHA512: 980a0ed3eef5a6e4c6ddcf8552e2fa56ef806a287a40ac70fc379d57f318d4043556243783aa2f93bc562ff0a14850b591371b2b3c5bfe18b71008e36288fdb7
-Description: Support Tools - AD users and RDP sessions web UI
- Web-интерфейс для просмотра пользователей Active Directory
- и терминальных (RDP) сеансов на серверах Windows.
-
-Package: supporttools
-Architecture: amd64
 Version: 1.8.7
 Priority: optional
 Section: net
@@ -43,6 +26,23 @@ MD5sum: 978cba956b01e7f4855b431fd7a6cfbe
 SHA1: e927d586b5217a9550b729cb7cfb89a181b84818
 SHA256: bca17521d390b5a4a28b39ecd2656695a71d356eb32c1ea08cf42315e905ec17
 SHA512: dad5a34a49f961236145195076240364202ee9cba89566b2ce3b8e48d40e44ecde68c29d946e0eca8da4846351f7f4a228581c8127d0781f542bb631c2c5821a
+Description: Support Tools - AD users and RDP sessions web UI
+ Web-интерфейс для просмотра пользователей Active Directory
+ и терминальных (RDP) сеансов на серверах Windows.
+
+Package: supporttools
+Architecture: amd64
+Version: 1.8.8
+Priority: optional
+Section: net
+Maintainer: augin <augin@users.noreply.github.com>
+Depends: libc6
+Filename: pool/main/supporttools_1.8.8_amd64.deb
+Size: 8305176
+MD5sum: 2bfba13b576797b3d91fe793581f40fe
+SHA1: aa40ebcbf38c188e3cb7f805e9361cd6695ba2b0
+SHA256: 3b712661abb53554ea0fd9fb40c68c0304e7920ea94c2a46ea0de10c04b71546
+SHA512: fe9604babca83ab0a1c9e6954a0a00bdbfe8589ae9019f9ac02886821bdc580eeac9ea96057a4436fcaa3a2b54d1a99fa8db8c434b53781f4d38008655cd6652
 Description: Support Tools - AD users and RDP sessions web UI
  Web-интерфейс для просмотра пользователей Active Directory
  и терминальных (RDP) сеансов на серверах Windows.
