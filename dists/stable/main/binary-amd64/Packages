@@ -15,6 +15,23 @@ Description: NC Manager - Web UI for managing WireGuard VPN on Keenetic routers
 
 Package: supporttools
 Architecture: amd64
+Version: 1.7.35
+Priority: optional
+Section: net
+Maintainer: augin <augin@users.noreply.github.com>
+Depends: libc6
+Filename: pool/main/supporttools_1.7.35_amd64.deb
+Size: 8298826
+MD5sum: de0c4ade85e3e524ed8585e7b112678b
+SHA1: a8f1bcfd575662096420022dc0c812748a51191a
+SHA256: fb3212a0fa593fd9b1a0886ec53a39668473a3585919e117e4d2c11cfb1c058b
+SHA512: a3741c89b398dd3bde89bd770a774800a8d5893f39b54bbe50f7eda623cb5a3952ed0d03dce563c762e98c405361b8f269450b1ed9ec793c7f32d181083fd19c
+Description: Support Tools - AD users and RDP sessions web UI
+ Web-интерфейс для просмотра пользователей Active Directory
+ и терминальных (RDP) сеансов на серверах Windows.
+
+Package: supporttools
+Architecture: amd64
 Version: 1.8.0
 Priority: optional
 Section: net
