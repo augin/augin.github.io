@@ -1,20 +1,5 @@
 Package: ncmanager
 Architecture: amd64
-Version: 1.13.3
-Priority: optional
-Section: net
-Maintainer: Unknown <unknown@example.com>
-Depends: wireguard, wireguard-tools, iptables
-Filename: pool/main/ncmanager_1.13.3_amd64.deb
-Size: 3046376
-MD5sum: 2b2e8e3c3ecdedd0d421109410bf6e03
-SHA1: 1d6e40a293f581bba3330a06ce2249692f90bee5
-SHA256: e6d4e154b39fafa84800a78ea2a8a2704ba967a7d822565b0010369bc17b7443
-SHA512: e8ac87d17e62b405f846e9e184c7541a8f56e9b122c581230eb7e6fbc93594032dc9721f9ddca44245e0bef24e7c09306042b951d0e7e6d53923aa16f8b3a7f9
-Description: NC Manager - Web UI for managing WireGuard VPN on Keenetic routers
-
-Package: ncmanager
-Architecture: amd64
 Version: 1.13.4
 Priority: optional
 Section: net
@@ -30,68 +15,17 @@ Description: NC Manager - Web UI for managing WireGuard VPN on Keenetic routers
 
 Package: supporttools
 Architecture: amd64
-Version: 1.7.29
+Version: 1.8.0
 Priority: optional
 Section: net
 Maintainer: augin <augin@users.noreply.github.com>
 Depends: libc6
-Filename: pool/main/supporttools_1.7.29_amd64.deb
-Size: 8297260
-MD5sum: 4a7b8c8d0a33020d54231574236aa5c3
-SHA1: 547813741864cfbfb8cddce5164f66ba8aa65eb7
-SHA256: d9fb5f39dff5ceee7ebebd174ff514fb11e625bd50b215219b8bb51801ede960
-SHA512: 1946780351a0480597a6ff6c2bb720224a608de0c9165a6fcd3c77b1ad177397bb55b273358dbda790e0fcf07feb007ef57c5a87f744376945497c711f892541
-Description: Support Tools - AD users and RDP sessions web UI
- Web-интерфейс для просмотра пользователей Active Directory
- и терминальных (RDP) сеансов на серверах Windows.
-
-Package: supporttools
-Architecture: amd64
-Version: 1.7.30
-Priority: optional
-Section: net
-Maintainer: augin <augin@users.noreply.github.com>
-Depends: libc6
-Filename: pool/main/supporttools_1.7.30_amd64.deb
-Size: 8297204
-MD5sum: 7eedc01cd518aacfb2757a5fb4cf6bd9
-SHA1: fe7b06da60ff1df5b4e6bbc67fbe6390af4f4bb8
-SHA256: b2d727cf6efcd01ccd932f7b8c4599099ad9c933451461da1bdad64b047a3f59
-SHA512: 2201a2a52a0a116b2968c76b4d181a0bc3336473064b69c58707492605153f1d9015e7121e184f4a71a59436417e4b7cce986c2446ae2927615d2ba70b2ba910
-Description: Support Tools - AD users and RDP sessions web UI
- Web-интерфейс для просмотра пользователей Active Directory
- и терминальных (RDP) сеансов на серверах Windows.
-
-Package: supporttools
-Architecture: amd64
-Version: 1.7.33
-Priority: optional
-Section: net
-Maintainer: augin <augin@users.noreply.github.com>
-Depends: libc6
-Filename: pool/main/supporttools_1.7.33_amd64.deb
-Size: 8298512
-MD5sum: c5b0540337a9a824b1cb4be3a6e56f5a
-SHA1: cbb830c97ee18f67eb6cad4acd45f8fd536d08a0
-SHA256: 8a543cf78179d4604204c142683e01ef88dc881100984ecebcc5edc6f5601e7c
-SHA512: 9545668f100da8ea78994e6950758f6ddd07575869a7b23c415c85ad25f22f43deca4271b2cd977a3cbe0bd9774783d82130ef9ffd5bd5cf6a4b202dd192c1a2
-Description: Support Tools - AD users and RDP sessions web UI
- Web-интерфейс для просмотра пользователей Active Directory
- и терминальных (RDP) сеансов на серверах Windows.
-
-Package: supporttools
-Architecture: amd64
-Version: 1.7.35
-Priority: optional
-Section: net
-Maintainer: augin <augin@users.noreply.github.com>
-Depends: libc6
-Filename: pool/main/supporttools_1.7.35_amd64.deb
-Size: 8298826
-MD5sum: de0c4ade85e3e524ed8585e7b112678b
-SHA1: a8f1bcfd575662096420022dc0c812748a51191a
-SHA256: fb3212a0fa593fd9b1a0886ec53a39668473a3585919e117e4d2c11cfb1c058b
-SHA512: a3741c89b398dd3bde89bd770a774800a8d5893f39b54bbe50f7eda623cb5a3952ed0d03dce563c762e98c405361b8f269450b1ed9ec793c7f32d181083fd19c
+Filename: pool/main/supporttools_1.8.0_amd64.deb
+Size: 8298876
+MD5sum: 1e6ad25adba724d98550d979826957ce
+SHA1: 86093dd3b6ff5ca0c168f6ec1805b0e386b6930c
+SHA256: d6c3632a03db1493c725479bf8befa8a6b19bdb1c9adcd67b7a03828f6242309
+SHA512: 8cdeb49e3b41a27f19ce0f792eb4de791b7a9aa7caf87f073004ca1315821cf273b8754a23b4a24b3a269a1c99f40354410a002ed7adc6b85a65712778d68a2e
 Description: Support Tools - AD users and RDP sessions web UI
  Web-интерфейс для просмотра пользователей Active Directory
  и терминальных (RDP) сеансов на серверах Windows.
