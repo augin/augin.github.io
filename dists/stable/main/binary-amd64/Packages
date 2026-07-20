@@ -15,17 +15,17 @@ Description: NC Manager - Web UI for managing WireGuard VPN on Keenetic routers
 
 Package: supporttools
 Architecture: amd64
-Version: 1.9.6
+Version: 1.9.10
 Priority: optional
 Section: net
 Maintainer: augin <augin@users.noreply.github.com>
 Depends: libc6
-Filename: pool/main/supporttools_1.9.6_amd64.deb
-Size: 10084668
-MD5sum: 2f6bc7b5dadf6bdf5ff45831c5597ab0
-SHA1: ce70c483dd672b4a0c068bd68907448bbd5e7f0a
-SHA256: 1c8adf64e6d6e2a0fcbea8a5ff125fadec2ccda55e119a404ac50187f90001f7
-SHA512: 81d8351c991e924b6b4c4f71ae961bac328674a409074263ecc74f79aeda0370bfb803b14504812ba94868fa710af6c61aa1120cda83ed30ca79f9c119fbedbe
+Filename: pool/main/supporttools_1.9.10_amd64.deb
+Size: 10097108
+MD5sum: 049c294f0bebdeafb6832ca24272d2d1
+SHA1: 72e1515b629bbad6c86fb674d8932970f9432a0f
+SHA256: f8e7d1b1e3fdad6fe97d1588b52afdc57efe8f6c1e93c952120c3a1c315901cf
+SHA512: fd411acbb90673f0bb7ad54b5d16645573734b6f13936194ee259ff9f9c6193e4e12055a8b1d9ccf61c8755f9f908d4af5e364d93aa6120bc3385251ad5b5661
 Description: Support Tools - AD users and RDP sessions web UI
  Web-интерфейс для просмотра пользователей Active Directory
  и терминальных (RDP) сеансов на серверах Windows.
