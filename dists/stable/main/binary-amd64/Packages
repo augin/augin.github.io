@@ -15,23 +15,6 @@ Description: NC Manager - Web UI for managing WireGuard VPN on Keenetic routers
 
 Package: supporttools
 Architecture: amd64
-Version: 1.10.4
-Priority: optional
-Section: net
-Maintainer: augin <augin@users.noreply.github.com>
-Depends: libc6
-Filename: pool/main/supporttools_1.10.4_amd64.deb
-Size: 10623152
-MD5sum: fd6c7ea2cd03882bf363412e3049e1e7
-SHA1: 6b5c5b7a545c6e88465f20d8d0a8803cb2c28eae
-SHA256: 0538e6454a4bd017e79af518fe798c1e4177177d84a24712f48d23d64add004e
-SHA512: e227480fa898ced866d4f5955cf5ccfe31c768e6c66f07b197fc09b0ae9d03805b3454cac0539edfca1053c43f1f5c1c5befb1531c188623ba4aeae9ce00b878
-Description: Support Tools - AD users and RDP sessions web UI
- Web-интерфейс для просмотра пользователей Active Directory
- и терминальных (RDP) сеансов на серверах Windows.
-
-Package: supporttools
-Architecture: amd64
 Version: 1.10.5
 Priority: optional
 Section: net
@@ -43,6 +26,23 @@ MD5sum: 1e446614b39f0caccb92af2fd48697b8
 SHA1: 93fa4a688d63e720686824962444be617f8be4f5
 SHA256: f6fe4b78edb929b327146b37040c41bac15330c63091b93af87e598abdb61a82
 SHA512: 87bec3c9a6d7837966cbb1e72e54c199a80f74e4420cba55280781f2c9ac9893549866b0e79de6f9d286be2425544414c8e0689438a03c8f62703d474c1207ab
+Description: Support Tools - AD users and RDP sessions web UI
+ Web-интерфейс для просмотра пользователей Active Directory
+ и терминальных (RDP) сеансов на серверах Windows.
+
+Package: supporttools
+Architecture: amd64
+Version: 1.10.6
+Priority: optional
+Section: net
+Maintainer: augin <augin@users.noreply.github.com>
+Depends: libc6
+Filename: pool/main/supporttools_1.10.6_amd64.deb
+Size: 10623756
+MD5sum: 0c1617a7e25804fdf60c5e7738d39814
+SHA1: f0f63033524ea8ec445bba6dddefe4c3b21be468
+SHA256: facbaa245651eccf0153f1fe20928038b524df822c3084e40dfd798277e4d5f3
+SHA512: 578511231677ab355400ae0e646720281054caf2ba2338d03a6aca260a50329a3a12052af4ab6bf29307d4223d30270b2869a6cb8f753572b6e731e901594eef
 Description: Support Tools - AD users and RDP sessions web UI
  Web-интерфейс для просмотра пользователей Active Directory
  и терминальных (RDP) сеансов на серверах Windows.
