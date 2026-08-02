@@ -1,24 +1,24 @@
 Architectures: amd64
 Codename: stable
 Components: main
-Date: Sun, 02 Aug 2026 21:15:17 +0000
+Date: Sun, 02 Aug 2026 21:41:36 +0000
 Description: Universal APT repository for Augin projects
 Label: Augin APT Repository
 Origin: Augin
 Suite: stable
 MD5Sum:
- caba3a67de60d0306fc7a437204a95ee              206 Release
- 7b02df75099a33b77495576690812ee1             3974 main/binary-amd64/Packages
- d5ab7693798e64ed3e26c605bfcaa24f             1621 main/binary-amd64/Packages.gz
+ 2cb40c21d78206ace1fd3011e5063332              206 Release
+ fc749125db422b27f42345943358963b             3974 main/binary-amd64/Packages
+ 26f0fad8a265f877bfa32058dc2733b9             1621 main/binary-amd64/Packages.gz
 SHA1:
- 53abfd4238fa091979c99555d014a7f5687e6bf7              206 Release
- c0486fe3b31169cb4682808d3ecda25fea17dbc1             3974 main/binary-amd64/Packages
- b7553dc67e58db5e276e8a101f45195025c0a8d7             1621 main/binary-amd64/Packages.gz
+ 82963dbf6993204de5b2b7ff54bf70e15732edcb              206 Release
+ bcc390cf1d6681524de4eb00f02852d8e24cbe11             3974 main/binary-amd64/Packages
+ b7dbcc9b5bc3f855f71b0095a323a8750bad4b8f             1621 main/binary-amd64/Packages.gz
 SHA256:
- 6144016ed41fd42a12ec8da983c780a1bc8094b8d4ac4d98653a49391dd9878c              206 Release
- 2b8b11d608206f1155f6739136fd71b858d6d2fd43537787f91e45c291b760fa             3974 main/binary-amd64/Packages
- e057a7e6cf56013a74362b99707265e59291b8dee3a653f3efdd7d702c7fbe08             1621 main/binary-amd64/Packages.gz
+ 6e64b1c895e9260dc229ebe43fd4e1928d469c33268f8326c52ae9ad8e2d966a              206 Release
+ 97d6880be9af1a4fb3838e3f878a361ddd7b7158812115534f6467aaae3a6017             3974 main/binary-amd64/Packages
+ 52f67f7108f63843fe40937329975859ecb07bfffc10305d18229373c02ae8a5             1621 main/binary-amd64/Packages.gz
 SHA512:
- cb01e54cc05b70174b7a5279bb287a457055d971b0085c29a81b99b1529ff57702f9720a1a836c590432fc73d3cd5b41095c929fa891f0e311a3f5e0ced00f7b              206 Release
- 02e110a97265f092cf7cfcf3d94aaf2ec6079e659eb3b61a2a1895f8a72cd9d6602823b78384dcbb822ef6b3f248ec64caa9aa4a459af48842120bc27f4efc30             3974 main/binary-amd64/Packages
- f5536139696248a19e6052fde1566174748291cc94ac3e95de6bc81e8cc004c17885b21f6ca89ca4af562397c0920e1f0f7e9ce3c35a134de9b0596df99276cc             1621 main/binary-amd64/Packages.gz
+ d82252bd10b7115edd0722560c532ae682720fe7b01980c094104765bb23e828a107fc4f65c977c70d1a9b37e64c93835de11eb63190821391da72f1e1465615              206 Release
+ 93e8eaa8451a731bedc5b283a6466e53eafc491744d680dfa481994d8ba8bda98ec831c62a9c3802d3cf796c543982410f71af61a203de782d11e81d5fb700d8             3974 main/binary-amd64/Packages
+ 1ba9b0086b7a0390c2fdd94934e111706b88243aeed0d1d30cb21381b3b0cc3b6addcd406dfa2c7c6439b73ad89e01006ff1b3cf7c4b9c7795a5998b2193b1fe             1621 main/binary-amd64/Packages.gz
