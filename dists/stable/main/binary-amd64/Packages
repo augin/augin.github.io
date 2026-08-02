@@ -1,20 +1,5 @@
 Package: ncmanager
 Architecture: amd64
-Version: 1.13.5
-Priority: optional
-Section: net
-Maintainer: Unknown <unknown@example.com>
-Depends: wireguard, wireguard-tools, iptables
-Filename: pool/main/ncmanager_1.13.5_amd64.deb
-Size: 3045762
-MD5sum: 0043bca7b09d4b8b9f2f7a650c623e0c
-SHA1: 6ecf7a3b5f2be9b118ccae7c74ac1cbf6c1e8ed6
-SHA256: 836aad61d3f36b6606b506ddc9cbb9b51525eadf570ef1b43f27bdc8a0141397
-SHA512: 70b67b34ca6aea34c688b492ce96c8855f94bdeb22e7ddd910e6f8b5e37e3b57aef9e03709a54b07725625281051da8b01797c2d53e7c462fd7302f338a969a4
-Description: NC Manager - Web UI for managing WireGuard VPN on Keenetic routers
-
-Package: ncmanager
-Architecture: amd64
 Version: 1.14.0
 Priority: optional
 Section: net
@@ -56,6 +41,21 @@ MD5sum: 73ee16650e0b17b340070d57c041f878
 SHA1: edc45b7567b89f07d40518d6118458871fbf360f
 SHA256: 3df73e72e3b2166674d21a0ceaa9bfc9d7da25ca53000daac807e85fa9dfce1b
 SHA512: 3a3fab2aaa8d9d6d75a97306b5e2884df0dadf8ee87bad455b072854e7cd54a4fce11dee1f74e07eca1a7cadb19675f19a0272254acd00d1939d018e572e3064
+Description: NC Manager - Web UI for managing WireGuard VPN on Keenetic routers
+
+Package: ncmanager
+Architecture: amd64
+Version: 1.14.3
+Priority: optional
+Section: net
+Maintainer: Unknown <unknown@example.com>
+Depends: wireguard, wireguard-tools, iptables
+Filename: pool/main/ncmanager_1.14.3_amd64.deb
+Size: 3046312
+MD5sum: 8e6534072a589978b0f30498000baf96
+SHA1: 896822a3bd3df7495fb8bd100639f37489b2abd1
+SHA256: a3c681b6aae988dcb970be90648faa0a1b7b682b9c245a74337b00a985c612c2
+SHA512: 479db70d35507687cd1acb7d87874686d31e6db98ec94a93245e0f123816a9f2eaa644443ea28b6cc7592c381113f4038c878c6f4f8ce42f31864e6d8bb4eb10
 Description: NC Manager - Web UI for managing WireGuard VPN on Keenetic routers
 
 Package: supporttools
