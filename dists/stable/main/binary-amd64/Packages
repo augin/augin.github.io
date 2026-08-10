@@ -5,7 +5,7 @@ Priority: optional
 Section: net
 Maintainer: Unknown <unknown@example.com>
 Depends: wireguard, wireguard-tools, iptables
-Filename: pool/main/ncmanager_1.14.3_amd64.deb
+Filename: ../../../../pool/main/ncmanager_1.14.3_amd64.deb
 Size: 3046312
 MD5sum: 8e6534072a589978b0f30498000baf96
 SHA1: 896822a3bd3df7495fb8bd100639f37489b2abd1
@@ -20,7 +20,7 @@ Priority: optional
 Section: net
 Maintainer: Unknown <unknown@example.com>
 Depends: wireguard, wireguard-tools, iptables
-Filename: pool/main/ncmanager_1.14.4_amd64.deb
+Filename: ../../../../pool/main/ncmanager_1.14.4_amd64.deb
 Size: 3046106
 MD5sum: fd2f6e96f503fe4f3381c7f57f25044c
 SHA1: bbeb4366b22c64854fcfdc2782a36d9f9df0ab15
@@ -35,7 +35,7 @@ Priority: optional
 Section: net
 Maintainer: Unknown <unknown@example.com>
 Depends: wireguard, wireguard-tools, iptables
-Filename: pool/main/ncmanager_1.14.5_amd64.deb
+Filename: ../../../../pool/main/ncmanager_1.14.5_amd64.deb
 Size: 3046402
 MD5sum: 9465fbe161d59c8103a6fa15c79b43d1
 SHA1: 9f466f4a123aafcdab84ab2d97f4b75f148af70a
@@ -50,13 +50,32 @@ Priority: optional
 Section: net
 Maintainer: Unknown <unknown@example.com>
 Depends: wireguard, wireguard-tools, iptables
-Filename: pool/main/ncmanager_1.14.6_amd64.deb
+Filename: ../../../../pool/main/ncmanager_1.14.6_amd64.deb
 Size: 3046262
 MD5sum: c4d5c509c763557127fbd00b1ba63739
 SHA1: abf698b3f43b5d10de0b219cc70ed4a905a64e3e
 SHA256: fad37a04c55dff826e0cfacf9c7fe44211552482e4c0313ab5db2ecc659d01a6
 SHA512: 162b2769ea28e98387977dc3a3cec2b6b9667362bfb3057dfda891236f5cec917d6ea75ca9562f6e3e37a10825715515843db0653bf41830006bba5731b1c123
 Description: NC Manager - Web UI for managing WireGuard VPN on Keenetic routers
+
+Package: simple-nvr
+Architecture: amd64
+Version: 2.0.0
+Priority: optional
+Section: video
+Maintainer: Augin <hello@augin.ru>
+Depends: ffmpeg
+Filename: ../../../../pool/main/simple-nvr_2.0.0_amd64.deb
+Size: 2130102
+MD5sum: 6a21d2b48fdea2bfd2ac1cb264788c94
+SHA1: d1f1791f5a9c360556b314582ee6ceb7e9e0757d
+SHA256: ad4fcc169e11770fce3a6be999ab992c19913563617f82213560a960923187d0
+SHA512: 26f070b1d922bf5bc4873950bfc364506c2e4747518d0e0219a8cdf220ae73bb665151b5287a3d18895ea3525369a33ca1b9f995b3d761921bb757d78eb4ca28
+Homepage: https://github.com/augin/simple_nvr
+Description: Simple NVR
+ Lightweight network video recorder.
+ Records RTSP streams via go2rtc, stores 10-minute segments,
+ automatic disk cleanup, web UI with video player and archive.
 
 Package: supporttools
 Architecture: amd64
@@ -65,7 +84,7 @@ Priority: optional
 Section: net
 Maintainer: augin <augin@users.noreply.github.com>
 Depends: libc6
-Filename: pool/main/supporttools_1.11.5_amd64.deb
+Filename: ../../../../pool/main/supporttools_1.11.5_amd64.deb
 Size: 10732778
 MD5sum: 4c38dc487ea7bba55624ada4d61fe117
 SHA1: df93b9fe8f67138a70cda4b7b71fb8512245c304
@@ -82,7 +101,7 @@ Priority: optional
 Section: net
 Maintainer: augin <augin@users.noreply.github.com>
 Depends: libc6
-Filename: pool/main/supporttools_1.11.6_amd64.deb
+Filename: ../../../../pool/main/supporttools_1.11.6_amd64.deb
 Size: 10736250
 MD5sum: 9188ce3808b4dea97a1c346e70fe1d78
 SHA1: fb6736597f30d7bd467f4cf3c4e43f1dab4d336e
