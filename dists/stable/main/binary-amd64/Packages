@@ -212,6 +212,25 @@ Description: Simple NVR
 
 Package: simple-nvr
 Architecture: amd64
+Version: 2.10.3
+Priority: optional
+Section: video
+Maintainer: Augin <hello@augin.ru>
+Depends: ffmpeg
+Filename: pool/main/simple-nvr_2.10.3_amd64.deb
+Size: 2929112
+MD5sum: 178835f79ab658f0aed37957322e3332
+SHA1: 10b2d443f5f77c0d781e9bda3d21538045ee50cf
+SHA256: d03edcaa4b79a5c874edf970519f829baeee500c877710a5a865d5ea6b5b8741
+SHA512: a59ad1d721de76371ea956863c03f5aaa0d1d0b4d39ae294afe8434cdb1a27f4c2d5efaee03ecea82de46a5b20c919513551379c42978b8aaa211b1fd9839ff0
+Homepage: https://github.com/augin/simple_nvr
+Description: Simple NVR
+ Lightweight network video recorder.
+ Records RTSP streams via go2rtc, stores 10-minute segments,
+ automatic disk cleanup, web UI with video player and archive.
+
+Package: simple-nvr
+Architecture: amd64
 Version: 2.2.0
 Priority: optional
 Section: video
