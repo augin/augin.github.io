@@ -902,11 +902,11 @@ Section: video
 Maintainer: Augin <hello@augin.ru>
 Depends: ffmpeg
 Filename: pool/main/simple-nvr_2.13.11_amd64.deb
-Size: 2965924
-MD5sum: 0e9ab071706a717cd3e366e7885a306b
-SHA1: 3c6d9b9221cd475ce64e7d496129d2e204a8d7de
-SHA256: 83fffe734a4b82f7267ba78cd8d6dbd35b13fe3c0e5835fdd57f776014ce69e7
-SHA512: 955e6266c429b860d69776d9a0e434f555b359f60305612e922fafeadeb99f18f47d8a1aa2f524b1b3dc86ab19b22ef97e3355d11da3adad3330919f91f56bb5
+Size: 2966398
+MD5sum: f989457d8d39b67a130826dff4ae40cb
+SHA1: 2a1a3d8ce20d4dc8f414bfac3efbe044223b89e0
+SHA256: b11e1efc39d8ee406aa7d778f1ff0e5a91c7e2b0b2d311e6afcfa4e53c73bd75
+SHA512: bc4cd44351f1474a6ca1cd2bcee364ae1eecb6e5be29be6ee20bc7b36f90e09f755ca3b4b5a6dd2ee44f2a68f8d6ae8dcc0f79e71f6e43be6aa0f3cbdfbcf3ee
 Homepage: https://github.com/augin/simple_nvr
 Description: Simple NVR
  Lightweight network video recorder.
