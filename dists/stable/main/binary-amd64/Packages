@@ -65,11 +65,11 @@ Priority: optional
 Section: net
 Maintainer: augin <augin@users.noreply.github.com>
 Filename: pool/main/rugate2_2.3.9_amd64.deb
-Size: 4697492
-MD5sum: ffe74b647e5d148cc7b46d06c419a540
-SHA1: 573076e254253eb7ddc182f8ec50da8a2e5b7dd0
-SHA256: d1a5db88f47d41f22beb600003b52d30cf12ea33b05e89dec3b293b2791730b1
-SHA512: 3ac2760d7d436a42dc9820180be23f72745931fd81427ba40bad3ad5ef87ded0cff1e00fd6e2780afc2bf100ebb9bbb7969aafa703f97fdbc2accb84c6c995d1
+Size: 5108440
+MD5sum: 2ddb207c06479cd2166cf8c1c43217d4
+SHA1: a19a6f9559a41568a3ab60dac5f00f2cc0efc8e9
+SHA256: 0f7477efe6e0a9fa19e3153a9e45d92d30e694b673a4f0191029e9a31e32a601
+SHA512: 046add1b2d8c30d3a7acb50bfe6344c052deadcc5803d8487eef55027955e46fd20fb54611946d0b3f62eb12c2d24803db192d397425bd4c21201e22f78b0fd8
 Homepage: https://github.com/augin/rugate2
 Description: ALPR-сервис открывания шлагбаума
  Опрашивает камеры, распознаёт номера (nomeroff-net) и открывает ворота
