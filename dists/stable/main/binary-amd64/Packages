@@ -12,6 +12,7 @@ SHA1: df10e760a3063fdbc4f9150f1b9f826cd7d3debd
 SHA256: c569c1ae5f2cba4dc7ebc5b8ddd61abf49b3ed8fb3d37830eda78f5f5b018804
 SHA512: 10001447d34e6ff75e747ecffade2117506c8fb9fe2e796f3f5a65d4fcbcbeb7f12682c46a3b2625cb0cfd01441ecf0fde502d9f261866948bc7e6b5c890dbaf
 Description: NC Manager - Web UI for managing WireGuard VPN on Keenetic routers
+
 Package: ncmanager
 Architecture: amd64
 Version: 1.15.1
@@ -26,6 +27,7 @@ SHA1: 800ee35d2f600d23ae87e243b28b2bc87767d1a9
 SHA256: 0c6da3f6bccbb5a33accd98befec4f44aaf262c26e809636156c05227a6e5f44
 SHA512: 95474f658ed13df98c31a9fcd618fa6fb8ef9d8f1d3c4c7260b722da0315a106c5112ae3b42b30681fbc285ec510127c1cefcffbbf97929949f1fde1a00dc086
 Description: NC Manager - Web UI for managing WireGuard VPN on Keenetic routers
+
 Package: ncmanager
 Architecture: amd64
 Version: 1.16.0
@@ -40,6 +42,7 @@ SHA1: 2ac6ad0046ccc884e0d49963da43a017acae7856
 SHA256: 89133fad51426486f31d27363f0230c5409df9b57d8016cd6882dd9bbebeccbd
 SHA512: 54a74e7e417b16d364afd486f1f66e62e5656e18fb559f8b55f0f14a069f5f8a406de77af6dfe8bff917cd4c86e14539076717600aede43e8895c8ece72a861f
 Description: NC Manager - Web UI for managing WireGuard VPN on Keenetic routers
+
 Package: ncmanager
 Architecture: amd64
 Version: 1.16.1
@@ -54,6 +57,7 @@ SHA1: 24cccfbf3b9a009654ff91755409acc9499d6bc0
 SHA256: 7c2fff760bed33c1c6ce9b49900ff2039e50ce59b80da5a941e4fbd4f187428f
 SHA512: 62576f1b4d7be77fff493e811fb7ffb51253667597ba99cbe4ba6878e11ec22dc5f9552bc9dbea62e5441b4fbbbb6e2affbc6ccf05c6e7bcf1d3ad336f349c09
 Description: NC Manager - Web UI for managing WireGuard VPN on Keenetic routers
+
 Package: rugate2
 Architecture: amd64
 Version: 2.3.9
@@ -72,6 +76,7 @@ Description: ALPR-сервис открывания шлагбаума
  для машин с действующим пропуском: веб-интерфейс, журнал событий,
  база машин в JSON, управление агентами детекции (в том числе
  установка по SSH), открытие ворот через MQTT или HTTP.
+
 Package: simple-nvr
 Architecture: amd64
 Version: 2.13.13
@@ -90,6 +95,7 @@ Description: Simple NVR
  Lightweight network video recorder.
  Records RTSP streams via go2rtc, stores 10-minute segments,
  automatic disk cleanup, web UI with video player and archive.
+
 Package: simple-nvr
 Architecture: amd64
 Version: 2.13.14
@@ -108,6 +114,7 @@ Description: Simple NVR
  Lightweight network video recorder.
  Records RTSP streams via go2rtc, stores 10-minute segments,
  automatic disk cleanup, web UI with video player and archive.
+
 Package: simple-nvr
 Architecture: amd64
 Version: 2.13.15
@@ -126,6 +133,7 @@ Description: Simple NVR
  Lightweight network video recorder.
  Records RTSP streams via go2rtc, stores 10-minute segments,
  automatic disk cleanup, web UI with video player and archive.
+
 Package: simple-nvr
 Architecture: amd64
 Version: 2.13.16
@@ -144,6 +152,7 @@ Description: Simple NVR
  Lightweight network video recorder.
  Records RTSP streams via go2rtc, stores 10-minute segments,
  automatic disk cleanup, web UI with video player and archive.
+
 Package: simple-nvr
 Architecture: amd64
 Version: 2.14.0
@@ -162,6 +171,7 @@ Description: Simple NVR
  Lightweight network video recorder.
  Records RTSP streams via go2rtc, stores 10-minute segments,
  automatic disk cleanup, web UI with video player and archive.
+
 Package: supporttools
 Architecture: amd64
 Version: 1.11.5
@@ -178,6 +188,7 @@ SHA512: 050ba03144e7d9dea417c694dd521855a20577ae45ddadaaac9673997aa86ebd163e8db6
 Description: Support Tools - AD users and RDP sessions web UI
  Web-интерфейс для просмотра пользователей Active Directory
  и терминальных (RDP) сеансов на серверах Windows.
+
 Package: supporttools
 Architecture: amd64
 Version: 1.11.6
@@ -194,3 +205,4 @@ SHA512: f2b34b8752ebfd7364defb2864b46b5b66529685744639ffe8d69cbdbc13ab085f64ff7a
 Description: Support Tools - AD users and RDP sessions web UI
  Web-интерфейс для просмотра пользователей Active Directory
  и терминальных (RDP) сеансов на серверах Windows.
+
