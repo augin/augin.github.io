@@ -150,3 +150,22 @@ Description: ALPR-сервис открывания шлагбаума
  база машин в JSON, управление агентами детекции (в том числе
  установка по SSH), открытие ворот через MQTT или HTTP.
 
+Package: rugate2
+Architecture: arm64
+Version: 2.5.7
+Priority: optional
+Section: net
+Maintainer: augin <augin@users.noreply.github.com>
+Filename: pool/main/rugate2_2.5.7_arm64.deb
+Size: 4384954
+MD5sum: cd33e2ef8a7439d83c0c1b478998e4c7
+SHA1: 943fa147a13d04810c2a8b9d8ba210aa6dcc2ac9
+SHA256: 5641518b944f1b9130a8cff5a7b4ce8534a72f47c995eb5a63d28994a15ff92c
+SHA512: 2e01e13a99c81054c62c38d07cacf8c59f217f0a8be9cd0fbb91ea787bd61c60f5b9c7823f3786a361659f9a0b1cf6e57f92c6374128bfe3e02ef9f6ce4af186
+Homepage: https://github.com/augin/rugate2
+Description: ALPR-сервис открывания шлагбаума
+ Опрашивает камеры, распознаёт номера (nomeroff-net) и открывает ворота
+ для машин с действующим пропуском: веб-интерфейс, журнал событий,
+ база машин в JSON, управление агентами детекции (в том числе
+ установка по SSH), открытие ворот через MQTT или HTTP.
+
