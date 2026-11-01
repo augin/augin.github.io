@@ -1,20 +1,5 @@
 Package: ncmanager
 Architecture: amd64
-Version: 1.15.0
-Priority: optional
-Section: net
-Maintainer: Unknown <unknown@example.com>
-Depends: wireguard, wireguard-tools, iptables
-Filename: pool/main/ncmanager_1.15.0_amd64.deb
-Size: 3047656
-MD5sum: dfc7e3a07769e5bf44c5189c8e042551
-SHA1: df10e760a3063fdbc4f9150f1b9f826cd7d3debd
-SHA256: c569c1ae5f2cba4dc7ebc5b8ddd61abf49b3ed8fb3d37830eda78f5f5b018804
-SHA512: 10001447d34e6ff75e747ecffade2117506c8fb9fe2e796f3f5a65d4fcbcbeb7f12682c46a3b2625cb0cfd01441ecf0fde502d9f261866948bc7e6b5c890dbaf
-Description: NC Manager - Web UI for managing WireGuard VPN on Keenetic routers
-
-Package: ncmanager
-Architecture: amd64
 Version: 1.15.1
 Priority: optional
 Section: net
@@ -58,100 +43,20 @@ SHA256: 7c2fff760bed33c1c6ce9b49900ff2039e50ce59b80da5a941e4fbd4f187428f
 SHA512: 62576f1b4d7be77fff493e811fb7ffb51253667597ba99cbe4ba6878e11ec22dc5f9552bc9dbea62e5441b4fbbbb6e2affbc6ccf05c6e7bcf1d3ad336f349c09
 Description: NC Manager - Web UI for managing WireGuard VPN on Keenetic routers
 
-Package: rugate2
+Package: ncmanager
 Architecture: amd64
-Version: 2.3.9
+Version: 1.16.2
 Priority: optional
 Section: net
-Maintainer: augin <augin@users.noreply.github.com>
-Filename: pool/main/rugate2_2.3.9_amd64.deb
-Size: 5108440
-MD5sum: 2ddb207c06479cd2166cf8c1c43217d4
-SHA1: a19a6f9559a41568a3ab60dac5f00f2cc0efc8e9
-SHA256: 0f7477efe6e0a9fa19e3153a9e45d92d30e694b673a4f0191029e9a31e32a601
-SHA512: 046add1b2d8c30d3a7acb50bfe6344c052deadcc5803d8487eef55027955e46fd20fb54611946d0b3f62eb12c2d24803db192d397425bd4c21201e22f78b0fd8
-Homepage: https://github.com/augin/rugate2
-Description: ALPR-сервис открывания шлагбаума
- Опрашивает камеры, распознаёт номера (nomeroff-net) и открывает ворота
- для машин с действующим пропуском: веб-интерфейс, журнал событий,
- база машин в JSON, управление агентами детекции (в том числе
- установка по SSH), открытие ворот через MQTT или HTTP.
-
-Package: rugate2
-Architecture: amd64
-Version: 2.5.0
-Priority: optional
-Section: net
-Maintainer: augin <augin@users.noreply.github.com>
-Filename: pool/main/rugate2_2.5.0_amd64.deb
-Size: 5318458
-MD5sum: f548c1b8741183872817ca84d5b7eda4
-SHA1: d98c027edd03c1232fb9cb452e0a444b7aac0722
-SHA256: 1c36bae7f8285f554d4a136dd10f1e404d61e8f202ade6835d4dd9df2f7dd028
-SHA512: 3e946b765e17dfbaf563735b46b6e70a34cd7296064a24edbab4c00338dc141ede36c85e7369219bad78b7e4cb5e0c0f9bf5b5d4d8361031dd263378b27683f6
-Homepage: https://github.com/augin/rugate2
-Description: ALPR-сервис открывания шлагбаума
- Опрашивает камеры, распознаёт номера (nomeroff-net) и открывает ворота
- для машин с действующим пропуском: веб-интерфейс, журнал событий,
- база машин в JSON, управление агентами детекции (в том числе
- установка по SSH), открытие ворот через MQTT или HTTP.
-
-Package: rugate2
-Architecture: amd64
-Version: 2.5.1
-Priority: optional
-Section: net
-Maintainer: augin <augin@users.noreply.github.com>
-Filename: pool/main/rugate2_2.5.1_amd64.deb
-Size: 5318248
-MD5sum: c704fced333668e62f6850c501988835
-SHA1: 3806ada00feb9c33627517e459a337cebf37cd69
-SHA256: 946f6a61e4fd4d64d18f1a20698b46458ccbdd56f053436700e0fdf383a2dadf
-SHA512: b9f95bac870911049cfd47da12da9413d19a8cdda24c798e0fefe6acb23deb84b5a5f5c3fef7f3b6f5ad54dccbc9f1fc074265a207916b70eff689536c8800f4
-Homepage: https://github.com/augin/rugate2
-Description: ALPR-сервис открывания шлагбаума
- Опрашивает камеры, распознаёт номера (nomeroff-net) и открывает ворота
- для машин с действующим пропуском: веб-интерфейс, журнал событий,
- база машин в JSON, управление агентами детекции (в том числе
- установка по SSH), открытие ворот через MQTT или HTTP.
-
-Package: rugate2
-Architecture: amd64
-Version: 2.5.2
-Priority: optional
-Section: net
-Maintainer: augin <augin@users.noreply.github.com>
-Filename: pool/main/rugate2_2.5.2_amd64.deb
-Size: 5297608
-MD5sum: dc089e5c82affbd9e4744e0f9551edfa
-SHA1: 8cae7018aa5892a9c5016da810684f97a0bbdeb4
-SHA256: 2c3b5801b801042169d67e1d1313e577c119abeeef85117f21df9b9a9dead65b
-SHA512: 2b4d484c7c18a51f6b13990b272f09c8bc699bfdb833e41e099198feac51f6ad0d92da2394b9949a60154821dd22c90560b3b2170f52157cddcb57449c728589
-Homepage: https://github.com/augin/rugate2
-Description: ALPR-сервис открывания шлагбаума
- Опрашивает камеры, распознаёт номера (nomeroff-net) и открывает ворота
- для машин с действующим пропуском: веб-интерфейс, журнал событий,
- база машин в JSON, управление агентами детекции (в том числе
- установка по SSH), открытие ворот через MQTT или HTTP.
-
-Package: rugate2
-Architecture: amd64
-Version: 2.5.3
-Priority: optional
-Section: net
-Maintainer: augin <augin@users.noreply.github.com>
-Filename: pool/main/rugate2_2.5.3_amd64.deb
-Size: 5318994
-MD5sum: 9fa7c316ed13a327500fcfa8560ea93a
-SHA1: 10cbf468a1b39657521ba39be3e35e2750e9f869
-SHA256: 81ee38541081d38584e25f4e9e30a9fe5659ba53f80fafa129c090f9aff1ef7f
-SHA512: c8812d2222916bf4e37c7f7cde4e68677254e691aee38a242e7641bf227d01f0407f202bfb50673874193d134ce3f47155042ff1b39bbe41fa6dee8df78c2a30
-Homepage: https://github.com/augin/rugate2
-Description: ALPR-сервис открывания шлагбаума
- Опрашивает камеры, распознаёт номера (nomeroff-net) и открывает ворота
- для машин с действующим пропуском: веб-интерфейс, журнал событий,
- база машин в JSON, управление агентами детекции (в том числе
- установка по SSH), открытие ворот через MQTT или HTTP.
+Maintainer: Unknown <unknown@example.com>
+Depends: wireguard, wireguard-tools, iptables
+Filename: pool/main/ncmanager_1.16.2_amd64.deb
+Size: 3030340
+MD5sum: 555453658f9e08d16e6496be0221a762
+SHA1: 0246cbf5b824699abba1abfcd95c87f9879bddf2
+SHA256: 3261d92d0957105d4d315ab02390999f8bf9d021d1290c0ae042d01434cbf26a
+SHA512: 0a2739a7abd228e544b62b7174955230b4bb724be1651f8006d83097dbf7f2ca67c7e97ecc41d56ca7d6555d6b8c6dfcd46955975c893bf24cc7a5aacdcb6104
+Description: NC Manager - Web UI for managing WireGuard VPN on Keenetic routers
 
 Package: rugate2
 Architecture: amd64
@@ -228,44 +133,6 @@ Description: ALPR-сервис открывания шлагбаума
  для машин с действующим пропуском: веб-интерфейс, журнал событий,
  база машин в JSON, управление агентами детекции (в том числе
  установка по SSH), открытие ворот через MQTT или HTTP.
-
-Package: simple-nvr
-Architecture: amd64
-Version: 2.13.13
-Priority: optional
-Section: video
-Maintainer: Augin <hello@augin.ru>
-Depends: ffmpeg
-Filename: pool/main/simple-nvr_2.13.13_amd64.deb
-Size: 2967034
-MD5sum: dfab57871aeabd0503a1018437f49b39
-SHA1: 4394c0489928b7de7f3a41e8219e39412a86c263
-SHA256: a42034b38db2d7bca87b755eaefb745d1ae0227f9a41da4d01746e2a5b75c16f
-SHA512: 82626803ba5002d4df4069e07a2a6879bd8a0d3e38bfb0d556f299d48b37f03dbc7160ab8547a5c13292dbf77e79385d4e3f9ba6a7bf2c5827fd561e259be723
-Homepage: https://github.com/augin/simple_nvr
-Description: Simple NVR
- Lightweight network video recorder.
- Records RTSP streams via go2rtc, stores 10-minute segments,
- automatic disk cleanup, web UI with video player and archive.
-
-Package: simple-nvr
-Architecture: amd64
-Version: 2.13.14
-Priority: optional
-Section: video
-Maintainer: Augin <hello@augin.ru>
-Depends: ffmpeg
-Filename: pool/main/simple-nvr_2.13.14_amd64.deb
-Size: 2967078
-MD5sum: 337e39dd1f093e9fccd69dcffbbdc90b
-SHA1: b0280f2b48736670340f7a885842bd31bc77eea6
-SHA256: 474145ac4c9e5838a3feb2628ef8c6d58b77407fab11ed73a8f19011d4567f22
-SHA512: 461e2531ae221e9321608e83f1dc50b7e4a998503a15a3e889d01bb850ff7b8994fc4d9de6c130bd5b5321846af4ef30b9d0efa544f154ec9d42bdd76f69948b
-Homepage: https://github.com/augin/simple_nvr
-Description: Simple NVR
- Lightweight network video recorder.
- Records RTSP streams via go2rtc, stores 10-minute segments,
- automatic disk cleanup, web UI with video player and archive.
 
 Package: simple-nvr
 Architecture: amd64
