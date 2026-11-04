@@ -4,39 +4,39 @@ Hash: SHA512
 Architectures: amd64 arm64
 Codename: stable
 Components: main
-Date: Wed, 04 Nov 2026 10:41:08 +0000
+Date: Wed, 04 Nov 2026 15:17:58 +0000
 Description: Universal APT repository for Augin projects
 Label: Augin APT Repository
 Origin: Augin
 Suite: stable
 MD5Sum:
- 6577e4fbd5db9fc34f4d9379dd2403ed              212 Release
- 894838c806e42421b337f7c54510c134            11811 main/binary-amd64/Packages
- b5f63af70bacd7a7ee43dd7824605e3c             3890 main/binary-amd64/Packages.gz
+ d1fcb8d1ce7675aca75a4c6d0a1a91e4              212 Release
+ 5f5001cbfa6bb0d30c6439525166a9a1            12544 main/binary-amd64/Packages
+ a78ec87b2fc25af50c9344c3e2810ec0             4073 main/binary-amd64/Packages.gz
  3c2ef1db3057c312df424b30808e1cfe             9378 main/binary-arm64/Packages
  b4bca48ef7701296cac921d14adaa472             2276 main/binary-arm64/Packages.gz
 SHA1:
- 2d95feae290f9aa407d5a11c7ba4097e377dcd94              212 Release
- 5f2a22480def86b312b5651278e9e9bfb76d57ed            11811 main/binary-amd64/Packages
- d1c84a7f6a012e0630307f1c40fd0e3373f84d3d             3890 main/binary-amd64/Packages.gz
+ be9839b71064ab178958380376c11f2cb925eef7              212 Release
+ 535fc1e4bf34f1ac8d0255b8848e8ab6342bb418            12544 main/binary-amd64/Packages
+ d37e58b2c0744569e9880a5c6a1693c1bba120df             4073 main/binary-amd64/Packages.gz
  ab66172a31a5db7bb9a303df946413767079e70e             9378 main/binary-arm64/Packages
  241aa5e57a92770902a80d7febf3558c668b7d4a             2276 main/binary-arm64/Packages.gz
 SHA256:
- 852445f629c8ba876aa0efbb788387ef3b3e1fc4dd97b21d94edad2f74d2df41              212 Release
- 0626aedf6c3f4865a5cdd70d6c35da848dd50f0e91dc38b36ba979a73aa7595a            11811 main/binary-amd64/Packages
- 28031b9cd73508244d4a3b22b1a6ce3b5844b36bd3f9876caea4da3091f3d880             3890 main/binary-amd64/Packages.gz
+ 27584cf817acb15eb03f674f221916320e5039c87fbbe83893a2a04b56f44727              212 Release
+ 397832f98f20ec99a5220254b7fc56b4d26f15c323d548b33a23811a027844d5            12544 main/binary-amd64/Packages
+ 3ae12374a28a78d6fe0321dfeb504504acd0d9352c250c3063b50a715d887723             4073 main/binary-amd64/Packages.gz
  f31d1d4fd96025f82492d95c034e23d97b1a5747f7b617a3cdf0fd97e0de6797             9378 main/binary-arm64/Packages
  3fd8dad7b6d356e08120fc0213d8c9b1078b6e91dadb6a2a9f50b38544feedd9             2276 main/binary-arm64/Packages.gz
 SHA512:
- 9f00ce3d0653572cf3424d3318f3094177222750b0a8e87bfb10b80e9a4dd9b60cca5c8e8af948f12e517f57e64b47fcb1e5754b5aa89c00298d08b02710c573              212 Release
- f84fca40773e6c43bffc967eebc510d13597e04231fd1ee6882b5d99e605b5517493fdb444bf287208762ba7d351197b493e2765633ea2a41546eac51abdf7ab            11811 main/binary-amd64/Packages
- d369796d4f97ac008a048406007d0ac0361be3053dd5ea410eb29762aba6ea75352b2cba106b59b759dd61d75e27063d15da1598269d285676583b5ac1343128             3890 main/binary-amd64/Packages.gz
+ 6346ec69600db5bf66dfe5f22a9de907bd552fd31084645677ba571a7a56546f07723e4bb94c4435afa71dfa1889d800daff68eab178dd0c5b89b0922263a15c              212 Release
+ 4f81f7866c88f69b76aad604810f8390984de721df3db499070a8902e84e78fec86950cc6afe779cf50757b5551c65b37b3f45e2f534b0e3e363ac52a5ef4013            12544 main/binary-amd64/Packages
+ 0484f5bc0721c5fb62d953d12f2f7d6db0dc06eca02f3f67057edf9646d1ec958d8c4239d1040368aa7bd74122ee6bcbf4c7b8d65625d78651a08791d6dcf106             4073 main/binary-amd64/Packages.gz
  87c95f41d64b9408bd5fdc8d032e8b7aa2884fdce89a994616ba90346a0351c0cae780ce4b88afdad16890ea9e4e7d8c13ed321fa6887c750abbc3a3dec6851e             9378 main/binary-arm64/Packages
  cbc70b5dcb0cb142807112828144af34e68f6b40d71aab49376460852a2bbbe2d13a3e4cb6af67d6c5435c119785215ef510262f10f2616e5f5c1d60bbda428a             2276 main/binary-arm64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQRFzff8ahWxUXlqRiXXMaJNSPCuFwUCausLxAAKCRDXMaJNSPCu
-F2F+AQDI+eRbhGjttj9Pk9OMusN+hVkRJwk96XrbdDFuZ9yJXQEAiNGf3MTloejF
-sxGBpvPAVsCxqOf8nlV5bLwwig1kZwM=
-=pHhr
+iHUEARYKAB0WIQRFzff8ahWxUXlqRiXXMaJNSPCuFwUCautMpgAKCRDXMaJNSPCu
+F6h6AP4ikjrfC8B0NonAXg1C3vancvWcRw3mzHVy6gLA6H3hzAD+LWV+LM9zTlBV
+fecaj7JSddg1m1dmNoORLs+lZODHaQk=
+=XSFr
 -----END PGP SIGNATURE-----
