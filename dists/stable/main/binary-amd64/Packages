@@ -1,20 +1,5 @@
 Package: ncmanager
 Architecture: amd64
-Version: 1.15.1
-Priority: optional
-Section: net
-Maintainer: Unknown <unknown@example.com>
-Depends: wireguard, wireguard-tools, iptables
-Filename: pool/main/ncmanager_1.15.1_amd64.deb
-Size: 3047870
-MD5sum: 942e0d6a770dac7c7661eec587f82d2f
-SHA1: 800ee35d2f600d23ae87e243b28b2bc87767d1a9
-SHA256: 0c6da3f6bccbb5a33accd98befec4f44aaf262c26e809636156c05227a6e5f44
-SHA512: 95474f658ed13df98c31a9fcd618fa6fb8ef9d8f1d3c4c7260b722da0315a106c5112ae3b42b30681fbc285ec510127c1cefcffbbf97929949f1fde1a00dc086
-Description: NC Manager - Web UI for managing WireGuard VPN on Keenetic routers
-
-Package: ncmanager
-Architecture: amd64
 Version: 1.16.0
 Priority: optional
 Section: net
@@ -56,6 +41,21 @@ MD5sum: 555453658f9e08d16e6496be0221a762
 SHA1: 0246cbf5b824699abba1abfcd95c87f9879bddf2
 SHA256: 3261d92d0957105d4d315ab02390999f8bf9d021d1290c0ae042d01434cbf26a
 SHA512: 0a2739a7abd228e544b62b7174955230b4bb724be1651f8006d83097dbf7f2ca67c7e97ecc41d56ca7d6555d6b8c6dfcd46955975c893bf24cc7a5aacdcb6104
+Description: NC Manager - Web UI for managing WireGuard VPN on Keenetic routers
+
+Package: ncmanager
+Architecture: amd64
+Version: 1.17.0
+Priority: optional
+Section: net
+Maintainer: Unknown <unknown@example.com>
+Depends: wireguard, wireguard-tools, iptables
+Filename: pool/main/ncmanager_1.17.0_amd64.deb
+Size: 3032176
+MD5sum: 179f1f23632f7a08e1064ec8e44772be
+SHA1: 1c7fa7d1fcdd6bc20844fe5e8c7b33af89e51b52
+SHA256: 1778ce06a4fccb0df4ad653de4196fe05185cb9f6071c1670705c9c1717ee91b
+SHA512: a4d46b2bd7059ddba756b6e77fc355c784388ae75d594ed08d253919311098c6841a09b4e0bf4e602ad985467a45d5a16373e9366d66d3497b98c2f4f0630a11
 Description: NC Manager - Web UI for managing WireGuard VPN on Keenetic routers
 
 Package: rugate2
@@ -133,44 +133,6 @@ Description: ALPR-сервис открывания шлагбаума
  для машин с действующим пропуском: веб-интерфейс, журнал событий,
  база машин в JSON, управление агентами детекции (в том числе
  установка по SSH), открытие ворот через MQTT или HTTP.
-
-Package: simple-nvr
-Architecture: amd64
-Version: 2.13.15
-Priority: optional
-Section: video
-Maintainer: Augin <hello@augin.ru>
-Depends: ffmpeg
-Filename: pool/main/simple-nvr_2.13.15_amd64.deb
-Size: 2967096
-MD5sum: 34d21a919b392a9310fbca6781cb500e
-SHA1: 1e0dbb7c8af69af4183c1ea2c1a12ef3d70f88bd
-SHA256: 6d22c6a4b1c5228973907285f5583ee66f66bf049404ebe826e41f8fa70eb1f3
-SHA512: d9ec0a3067935674abb0224b91892de04bae1654888d71c979c4404d8667eaa523d27456473d4ae9a023705db5934c87ffd908199c6a67d3b3f7201ad2fa5fe6
-Homepage: https://github.com/augin/simple_nvr
-Description: Simple NVR
- Lightweight network video recorder.
- Records RTSP streams via go2rtc, stores 10-minute segments,
- automatic disk cleanup, web UI with video player and archive.
-
-Package: simple-nvr
-Architecture: amd64
-Version: 2.13.16
-Priority: optional
-Section: video
-Maintainer: Augin <hello@augin.ru>
-Depends: ffmpeg
-Filename: pool/main/simple-nvr_2.13.16_amd64.deb
-Size: 2966998
-MD5sum: 245caecddefdf8fff6be6ba6ea6a1377
-SHA1: 9eb3392dd0aee82cabfa5ea86473993a10801b10
-SHA256: 79291118ec50f436c3234a5951241a032f379fb85967a0e2e001f8f67ff97623
-SHA512: 994b2f59d7ae12bbbde550550b67c701327dca27047aa6b21f8bc0af466bc2d407b9602d49e4318013a480ef7681f4a01f368be504d74245b80bf7d14c7ac420
-Homepage: https://github.com/augin/simple_nvr
-Description: Simple NVR
- Lightweight network video recorder.
- Records RTSP streams via go2rtc, stores 10-minute segments,
- automatic disk cleanup, web UI with video player and archive.
 
 Package: simple-nvr
 Architecture: amd64
