@@ -106,23 +106,6 @@ Description: Simple NVR
 
 Package: supporttools
 Architecture: amd64
-Version: 1.11.6
-Priority: optional
-Section: net
-Maintainer: augin <augin@users.noreply.github.com>
-Depends: libc6
-Filename: pool/main/supporttools_1.11.6_amd64.deb
-Size: 10736250
-MD5sum: 9188ce3808b4dea97a1c346e70fe1d78
-SHA1: fb6736597f30d7bd467f4cf3c4e43f1dab4d336e
-SHA256: 1eea06cc152e38c342e9eb8589f27dd857703a7f607e0d8566b2c419fc88e82b
-SHA512: f2b34b8752ebfd7364defb2864b46b5b66529685744639ffe8d69cbdbc13ab085f64ff7ae7e9753332954f28d209e2482f7dcac0ccbed94529e9eeeb7e72b5bb
-Description: Support Tools - AD users and RDP sessions web UI
- Web-интерфейс для просмотра пользователей Active Directory
- и терминальных (RDP) сеансов на серверах Windows.
-
-Package: supporttools
-Architecture: amd64
 Version: 1.12.0
 Priority: optional
 Section: net
@@ -134,6 +117,23 @@ MD5sum: 4b74cf0a76e01e65fb37732211462fd4
 SHA1: f1fe15262a9bc7943df2155da23af8965740a11d
 SHA256: 88f4d2e04d8b39452216e6e50e7dcfce1f401b0955a1da4eaf935c9bf853beb9
 SHA512: 003935b3e55c690ced366c78b99f4cc1ec9c37307f31824a76f9505f732996f23689936e1f0e185e06fbe0f3d176ac2664dd78cb0da65eaccc74e53d363fee14
+Description: Support Tools - AD users and RDP sessions web UI
+ Web-интерфейс для просмотра пользователей Active Directory
+ и терминальных (RDP) сеансов на серверах Windows.
+
+Package: supporttools
+Architecture: amd64
+Version: 1.12.1
+Priority: optional
+Section: net
+Maintainer: augin <augin@users.noreply.github.com>
+Depends: libc6
+Filename: pool/main/supporttools_1.12.1_amd64.deb
+Size: 10746460
+MD5sum: 93bccca72e8e68a2ef8b5eefab8c0e54
+SHA1: b29f1b2f990ee8153fcc53bfde2bc1d59e59ee4e
+SHA256: 18f1527cbcfd7aa0ca77bed64d1ec7a149dd57db3dd88c0aaee7cbab5420d4d3
+SHA512: 0c2fcde4bee98aeff64e88e97c92fc41c687d4e02db6dbf1f90c52cf7b133df6d5459fb33daa1a1ed00a8975fdfd00a28284b53a07649a0565714156f9fc15ce
 Description: Support Tools - AD users and RDP sessions web UI
  Web-интерфейс для просмотра пользователей Active Directory
  и терминальных (RDP) сеансов на серверах Windows.
